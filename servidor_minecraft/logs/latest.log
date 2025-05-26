@@ -129,3 +129,12 @@
 [01:43:15] [Geyser Spigot connection thread-6-1/INFO]: [floodgate] Floodgate player logged in as .zisters81 disconnected
 [01:43:15] [Server thread/INFO]: .zisters81 lost connection: Disconnected
 [01:43:15] [Server thread/INFO]: .zisters81 left the game
+[01:54:16] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username zisters81
+[01:54:16] [localSession-7-1/INFO]: [Geyser-Spigot] zisters81 (logged in as: zisters81) has connected to the Java server
+[01:54:16] [Server thread/INFO]: [floodgate] Floodgate player logged in as .zisters81 joined (UUID: 00000000-0000-0000-0009-01fd5d67bbd5)
+[01:54:16] [Server thread/INFO]: .zisters81 joined the game
+[01:54:16] [Server thread/INFO]: .zisters81[/127.0.0.1:0] logged in with entity id 853 at ([world]12658.53, 75.01333, 6095.5083)
+[01:54:37] [Geyser Spigot connection thread-6-2/INFO]: [floodgate] Floodgate player logged in as .zisters81 disconnected
+[01:54:37] [epollEventLoopGroup-4-1/INFO]: [Geyser-Spigot] zisters81 has disconnected from the Java server because of Bedrock client timed out
+[01:54:37] [Server thread/INFO]: .zisters81 lost connection: Disconnected
+[01:54:37] [Server thread/INFO]: .zisters81 left the game
