@@ -139,3 +139,17 @@
 [09:18:19] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
 [09:22:12] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
 [09:22:12] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
+[09:25:24] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
+[09:25:24] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
+[09:27:30] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
+[09:27:30] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
+[09:27:45] [Server thread/INFO]: Griffoo issued server command: /enchant Griffoo minecraft:efficiency 5
+[09:27:45] [Server thread/INFO]: [Griffoo: Applied enchantment Efficiency V to Griffoo's item]
+[09:27:49] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
+[09:27:49] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
+[09:30:00] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
+[09:30:00] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
+[09:30:21] [Server thread/INFO]: Griffoo issued server command: /enchant Griffoo minecraft:efficiency 5
+[09:30:21] [Server thread/INFO]: [Griffoo: Applied enchantment Efficiency V to Griffoo's item]
+[09:30:27] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
+[09:30:27] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
