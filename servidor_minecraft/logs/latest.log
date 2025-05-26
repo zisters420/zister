@@ -153,3 +153,6 @@
 [09:30:21] [Server thread/INFO]: [Griffoo: Applied enchantment Efficiency V to Griffoo's item]
 [09:30:27] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
 [09:30:27] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
+[09:45:54] [Server thread/INFO]: Griffoo has made the advancement [Monster Hunter]
+[09:46:57] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
+[09:46:57] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
