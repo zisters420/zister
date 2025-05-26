@@ -51,3 +51,56 @@ casa:
   candelete: true
   canpurge: true
   tppoint: ''
+Griffoo:
+  name: Griffoo
+  lastvisit: 26/05/2025
+  admins: []
+  members: []
+  leaders:
+  - e4adcce5-4514-33fb-9fec-28af5c41631d@Griffoo
+  priority: 0
+  welcome: ''
+  world: world
+  maxX: 12628
+  maxZ: 5997
+  minX: 12600
+  minZ: 5948
+  maxY: 320
+  minY: -64
+  value: 0.0
+  flags:
+    can-grow: true
+    leaves-decay: false
+    allow-effects: true
+    door: false
+    teleport: true
+    allow-spawner: false
+    mob-loot: false
+    button: false
+    fire: false
+    flow: true
+    iceform-player: true
+    allow-home: false
+    chest: false
+    iceform-world: true
+    smart-door: true
+    fishing: false
+    use-potions: true
+    lever: false
+    pvp: false
+    spawn-animals: true
+    passives: false
+    press-plate: false
+    minecart: false
+    ender-chest: false
+    build: false
+    allow-fly: true
+    gravity: true
+    flow-damage: false
+    spawn-monsters: true
+    allow-potions: true
+    block-transform: true
+    redstone: false
+  candelete: true
+  canpurge: true
+  tppoint: ''
