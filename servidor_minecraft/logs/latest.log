@@ -130,3 +130,12 @@
 [09:04:21] [Server thread/INFO]: Player: Griffoo
 [09:04:21] [Server thread/INFO]: Lines - 1: [rp] - 2: Griffoo
 [09:04:21] [Server thread/INFO]: Lines - 3:  - 4: 
+[09:14:08] [Server thread/INFO]: Villager Villager['Nitwit'/4454, uuid='5a57eb0e-d9eb-438c-9130-c646e2a6e8af', l='ServerLevel[world]', x=12610.27, y=77.00, z=5986.65, cpos=[788, 374], tl=99355, v=true] died, message: 'Nitwit was slain by Griffoo'
+[09:17:56] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
+[09:17:56] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
+[09:18:00] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
+[09:18:00] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
+[09:18:19] [Server thread/INFO]: Griffoo issued server command: /gamemode survival
+[09:18:19] [Server thread/INFO]: [Griffoo: Set own game mode to Survival Mode]
+[09:22:12] [Server thread/INFO]: Griffoo issued server command: /gamemode creative
+[09:22:12] [Server thread/INFO]: [Griffoo: Set own game mode to Creative Mode]
