@@ -106,3 +106,4 @@
 [00:26:52] [Server thread/INFO]: Griffoo[/127.42.212.38:37511] logged in with entity id 40 at ([world]12596.626530449676, 78.0, 5985.100364636428)
 [00:32:30] [Server thread/INFO]: Villager Villager['Leatherworker'/125, uuid='4ea17c48-caa5-462b-916f-d6ada84896b9', l='ServerLevel[world]', x=12633.13, y=77.25, z=6032.43, cpos=[789, 377], tl=221984, v=true] died, message: 'Leatherworker was slain by Zombie'
 [00:40:26] [Server thread/INFO]: Griffoo has made the advancement [Acquire Hardware]
+[00:52:07] [Server thread/INFO]: Griffoo has made the advancement [A Seedy Place]
